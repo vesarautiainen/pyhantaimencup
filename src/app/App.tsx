@@ -193,8 +193,7 @@ function TietosuojaPage() {
         <li>pyytää tietojen poistamista, mikäli niiden säilyttämiselle ei ole lakisääteistä tai kilpailun järjestämiseen liittyvää perustetta</li>
       </ul>
       <br />
-      <p style={{ marginBottom: 0 }}>Tietopyynnöt voi lähettää osoitteeseen:</p>
-      <p style={{ marginBottom: 0 }}>vrautiainen@gmail.com</p>
+      <p style={{ marginBottom: 0 }}>Tietopyynnöt voi lähettää osoitteeseen vrautiainen@gmail.com</p>
       <br />
       <p style={{ fontWeight: 700, marginBottom: 0 }}>Suostumus</p>
       <p>Osallistumalla kilpailuun osallistuja hyväksyy tämän tietosuojaselosteen mukaisen henkilötietojen käsittelyn.</p>
