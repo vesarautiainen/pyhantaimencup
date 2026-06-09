@@ -1,6 +1,6 @@
 import { useState } from "react";
 import heroImage from "../imports/image-1.png";
-import logoImage from "../imports/Nettisivu/a76ab81f2ecd78ffe7979ae7902b6ab76b5521d7.png";
+import logoImage from "../imports/logo.png";
 
 const fraunces: React.CSSProperties = {
   fontFamily: "'Fraunces', serif",
@@ -46,14 +46,14 @@ function Tabs({ active, setActive }: { active: "kilpailu" | "tietosuoja"; setAct
     { id: "tietosuoja" as const, label: "Tietosuojaseloste" },
   ];
   return (
-    <div className="flex gap-4 px-4">
+    <div className="flex gap-4">
       {tabs.map((tab) => (
         <button
           key={tab.id}
           onClick={() => setActive(tab.id)}
           className="flex flex-col items-center gap-[3px] pb-0 cursor-pointer bg-transparent border-0 p-0"
         >
-          <span style={{ ...fraunces, fontSize: 14, color: "#17324d" }}>{tab.label}</span>
+          <span style={{ ...fraunces, fontSize: 16, color: "#17324d" }}>{tab.label}</span>
           <div
             style={{
               height: 2,
