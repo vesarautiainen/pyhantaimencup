@@ -97,15 +97,16 @@ function KilpailuPage() {
       {/* Osallistuminen */}
       <Section title="Osallistuminen">
         <p style={{ fontSize: 14, lineHeight: "normal" }}>
-          <span style={{ fontWeight: 700 }}>Lähetä WhatsApp-viesti numeroon 0403227772. </span>
-          Lisää viestiin nimesi, kalan pituus ja pyyntipäivä. Liitä mukaan kuva saaliista siten, että kala näkyy selvästi mittanauhan päällä ja pituus on luettavissa kuvasta.
+          Lähetä kuva saaliistasi
+          <span style={{ fontWeight: 700 }}> WhatsApp-viestillä numeroon 0403227772. </span>
+          Lisää viestiin nimesi, kalan pituus ja pyyntipäivä. Kalan tulee näkyä selvästi mittanauhan päällä niin että pituus on luettavissa kuvasta.
         </p>
       </Section>
 
       {/* Mittausohje */}
       <Section title="Mittausohje">
         <p style={{ fontSize: 14, lineHeight: "normal" }}>
-          Mittaa kalan pituus leuan kärjestä yhteen puristetun pyrstön päähän senttimetrin tarkkuudella. Aseta kala tasaiselle alustalle ja mittaa pituus alustaa pitkin kalan vierestä, ei kalan pintaa pitkin. Sekä Astelin- että Oravanrannasta löytyy mittauspiste.
+          Mittaa kalan pituus leuan kärjestä yhteen puristetun pyrstön päähän senttimetrin tarkkuudella. Aseta kala tasaiselle alustalle ja mittaa pituus alustaa pitkin kalan vierestä, ei kalan pintaa pitkin. Sekä Astelista että Oravanrannasta löytyy mittauspiste, jota voit käyttää apuna. 
         </p>
       </Section>
 
@@ -115,15 +116,15 @@ function KilpailuPage() {
           <p style={{ marginBottom: 0 }}>
             Pääpalkintona on suurimman taimenen saajalle{" "}
             <span style={{ fontWeight: 700 }}>sähköperämoottori</span>{" "}
-            <span style={{ fontWeight: 700 }}>(arvo 200 €)</span>. Lisäksi kaikkien osallistujien kesken arvotaan 3 x 2kpl käsintehtyjä taimenvaappuja.
+            <span style={{ fontWeight: 700 }}>(arvo n. 200 €)</span>. Lisäksi kaikkien osallistujien kesken arvotaan 3 x 2kpl käsintehtyjä taimenvaappuja.
           </p>
           <br />
           <p style={{ marginBottom: 0 }}>
-            Jos samanpituisia kaloja on useampia, voittaja arvotaan näiden kalojen kesken. Palkintojen voittajat ilmoitetaan pian kilpailun päättymisen jälkeen marraskuun alussa pyhan_vedet Instagram tilillä. Voittajille ilmoitetaan myös henkilökohtaisesti.
+            Jos samanpituisia suurimpia kaloja on useampia, voittaja arvotaan näiden kalojen kesken. Palkintojen voittajat ilmoitetaan pian kilpailun päättymisen jälkeen marraskuun alussa pyhan_vedet Instagram-tilillä. Voittajille ilmoitetaan myös henkilökohtaisesti.
           </p>
           <br />
           <p style={{ marginBottom: 0 }}>
-            Palkinnot on noudettavissa Pyhätunturilta mutta myös kotimaan postitus on mahdollinen.
+            Palkinnot ovat noudettavissa Pyhätunturilta, mutta myös postitus kotimaahan on mahdollinen.
           </p>
         </div>
       </Section>
@@ -182,18 +183,18 @@ function TietosuojaPage() {
       <p>Kilpailun voittajan nimi, saaliskuva ja saalistiedot voidaan julkaista kilpailun tulosten yhteydessä Pyhäjärven hoitokunnan verkkosivuilla, sosiaalisen median kanavissa tai muissa kilpailuun liittyvissä julkaisuissa.</p>
       <br />
       <p style={{ fontWeight: 700, marginBottom: 0 }}>Tietojen säilyttäminen</p>
-      <p style={{ marginBottom: 0 }}>Kilpailuun liittyviä tietoja säilytetään enintään kaksi vuotta kilpailun päättymisen jälkeen, minkä jälkeen tiedot poistetaan tai anonymisoidaan.</p>
-      <p>Saalispalautteita voidaan säilyttää pidempään tilastollisessa muodossa ilman henkilötietoja.</p>
+      <p style={{ marginBottom: 0 }}>Kilpailuun liittyviä tietoja säilytetään enintään vuosi kilpailun päättymisen jälkeen, minkä jälkeen tiedot poistetaan.</p>
+      <p>Saalispalautteita voidaan säilyttää pidempään tilastollisessa muodossa ilman henkilötietoja. Myös sosiaaliseen mediaan lisätyt kuvat jäävät säilymään.</p>
       <br />
       <p style={{ fontWeight: 700, marginBottom: 0 }}>Rekisteröidyn oikeudet</p>
       <p style={{ marginBottom: 0 }}>Osallistujalla on oikeus:</p>
       <ul style={{ listStyleType: "disc", paddingLeft: "1.25rem", marginTop: 4 }}>
         <li>saada tieto itseään koskevista tiedoista</li>
         <li>pyytää virheellisten tietojen korjaamista</li>
-        <li>pyytää tietojen poistamista, mikäli niiden säilyttämiselle ei ole lakisääteistä tai kilpailun järjestämiseen liittyvää perustetta</li>
+        <li>pyytää tietojen poistamista, mikäli niiden säilyttämiselle ei ole lakisääteistä tai kilpailun järjestämiseen liittyvää perustetta.</li>
       </ul>
       <br />
-      <p style={{ marginBottom: 0 }}>Tietopyynnöt voi lähettää osoitteeseen: vrautiainen@gmail.com</p>
+      <p style={{ marginBottom: 0 }}>Tietopyynnöt voi lähettää sähköpostilla osoitteeseen: vrautiainen@gmail.com. </p>
       <br />
       <p style={{ fontWeight: 700, marginBottom: 0 }}>Suostumus</p>
       <p>Osallistumalla kilpailuun osallistuja hyväksyy tämän tietosuojaselosteen mukaisen henkilötietojen käsittelyn.</p>
