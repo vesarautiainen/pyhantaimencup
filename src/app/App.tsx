@@ -215,7 +215,7 @@ export default function App() {
   const [tab, setTab] = useState<"kilpailu" | "tietosuoja">("kilpailu");
 
   return (
-    <div className="min-h-screen w-full flex flex-col" style={{ background: "#ecf0f1" }}>
+    <div className="min-h-screen w-full flex flex-col" style={{ background: "#f5f8f9" }}>
       <Hero />
 
       {/* Content wrapper — centred, max ~640px, responsive padding */}
