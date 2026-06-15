@@ -1,5 +1,5 @@
 import { useState } from "react";
-import heroImage from "../imports/heroimage.webp";
+import heroImage from "../imports/taimen.webp";
 import logoImage from "../imports/logo.png";
 
 const fraunces: React.CSSProperties = {
