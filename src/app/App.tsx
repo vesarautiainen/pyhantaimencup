@@ -99,14 +99,14 @@ function KilpailuPage() {
         <p style={{ fontSize: 14, lineHeight: "normal" }}>
           Lähetä kuva saaliistasi
           <span style={{ fontWeight: 700 }}> WhatsApp-viestillä numeroon 0403227772. </span>
-          Lisää viestiin nimesi, kalan pituus ja pyyntipäivä. Kalan tulee näkyä selvästi mittanauhan päällä niin että pituus on luettavissa kuvasta.
+          Lisää viestiin nimesi, kalan pituus ja pyyntipäivä. Kalan tulee näkyä selvästi mittanauhan päällä niin että pituus on luettavissa kuvasta. Voit lähettää myös useampia kuvia. Kuvan lähettämällä osallistut kilpailuun ja hyväksyt samalla tietosuojaselosteen ehdot.
         </p>
       </Section>
 
       {/* Mittausohje */}
       <Section title="Mittausohje">
         <p style={{ fontSize: 14, lineHeight: "normal" }}>
-          Mittaa kalan pituus leuan kärjestä yhteen puristetun pyrstön päähän senttimetrin tarkkuudella. Aseta kala tasaiselle alustalle ja mittaa pituus alustaa pitkin kalan vierestä, ei kalan pintaa pitkin. Sekä Astelista että Oravanrannasta löytyy mittauspiste, jota voit käyttää apuna. 
+          Mittaa kalan pituus leuan kärjestä yhteen puristetun pyrstön päähän. Pituus ilmoitetaan kokonaisina senttimetreinä pyöristämällä alaspäin lähimpään täyteen senttimetriin. Aseta kala tasaiselle alustalle ja mittaa pituus alustaa pitkin kalan vierestä, ei kalan pintaa pitkin. Sekä Astelista että Oravanrannasta löytyy mittauspiste, jota voit käyttää apuna.
         </p>
       </Section>
 
