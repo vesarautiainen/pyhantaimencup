@@ -89,7 +89,7 @@ function KilpailuPage() {
       {/* Säännöt */}
       <Section title="Säännöt">
         <p style={{ fontSize: 14, lineHeight: "normal" }}>
-          Kyseessä on pituuskilpailu, eli pisin hyväksytty aktiivivälinein pyydetty taimen voittaa. Alamitta on 50 cm. Saaliskiintiö on yksi taimen vuorokautta kohden per kalastaja. Rasvaevälliset taimenet on vapautettava. Rasvaevättömät taimenet voi ottaa sääntöjen puitteissa. Kalastukseen vaaditaan voimassa oleva lupa, jonka voi ostaa osoitteesta{" "}
+          Kyseessä on pituuskilpailu, eli pisin hyväksytty aktiivivälinein pyydetty taimen voittaa. Alamitta on 50 cm. Saaliskiintiö on yksi taimen vuorokautta kohden per kalastaja. <span style={{ fontWeight: 700 }}>Rasvaevälliset taimenet on vapautettava välittömästi.</span> Rasvaevättömät taimenet voi ottaa sääntöjen puitteissa. Kalastukseen vaaditaan voimassa oleva lupa, jonka voi ostaa osoitteesta{" "}
           <a href="https://pyhanvedet.fi/lupakauppa" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline", color: "inherit" }}>pyhanvedet.fi/lupakauppa</a>.
         </p>
       </Section>
