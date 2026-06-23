@@ -89,7 +89,7 @@ function KilpailuPage() {
       {/* Säännöt */}
       <Section title="Säännöt">
         <p style={{ fontSize: 14, lineHeight: "normal" }}>
-          Kyseessä on pituuskilpailu, eli pisin hyväksytty aktiivivälinein pyydetty taimen voittaa. Alamitta on 50 cm. Saaliskiintiö on yksi taimen vuorokautta kohden per kalastaja. <span style={{ fontWeight: 700 }}>Rasvaevälliset taimenet on vapautettava välittömästi.</span> Rasvaevättömät taimenet voi ottaa sääntöjen puitteissa. Kalastukseen vaaditaan voimassa oleva lupa, jonka voi ostaa osoitteesta{" "}
+          Kyseessä on pituuskilpailu, eli pisin hyväksytty aktiivivälinein pyydetty taimen voittaa. Alamitta on 50 cm. Saaliskiintiö on yksi taimen vuorokautta kohden per kalastaja. <span style={{ fontWeight: 700 }}>Rasvaevälliset taimenet on vapautettava välittömästi.</span> Rasvaevättömät taimenet voi ottaa sääntöjen puitteissa. Kilpailuun osallistuminen on maksutonta mutta kalastukseen vaaditaan voimassa oleva lupa, jonka voi ostaa osoitteesta{" "}
           <a href="https://pyhanvedet.fi/lupakauppa" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline", color: "inherit" }}>pyhanvedet.fi/lupakauppa</a>.
         </p>
       </Section>
@@ -100,6 +100,11 @@ function KilpailuPage() {
           Lähetä kuva saaliistasi
           <span style={{ fontWeight: 700 }}> WhatsApp-viestillä numeroon 0403227772. </span>
           Lisää viestiin nimesi, kalan pituus ja pyyntipäivä. Kalan tulee näkyä selvästi mittanauhan päällä niin että pituus on luettavissa kuvasta. Voit lähettää myös useampia kuvia. Kuvan lähettämällä osallistut kilpailuun ja hyväksyt samalla tietosuojaselosteen ehdot.
+        </p>
+        <br />
+        <p style={{ fontSize: 14, lineHeight: "normal" }}>
+          <span style={{ fontWeight: 700 }}>HUOM! </span>
+          Lähetämme onnistuneesta rekisteröinnistä aina erikseen vahvistusviestin. Pyrimme tarkistamaan osallistumisviestit mahdollisimman pian. Jos et saa vahvistusviestiä 48 tunnin sisällä, ota yhteyttä kilpailun järjestäjään. Yhteystiedot löytyvät tietosuojaselosteesta.
         </p>
       </Section>
 
